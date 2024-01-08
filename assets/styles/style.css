@@ -32,6 +32,9 @@ body{
 }
 .container_logo p{
     font-size: 23px;
+    background: linear-gradient(180deg, #FFFFFF 40%, rgb(245, 192, 68) 90%);
+    -webkit-background-clip: text;
+    color: transparent;
 }
 .container_subtitle p {
     width: 100%;
