@@ -99,6 +99,7 @@ body{
     .container_page{
         display: flex;
         justify-content: space-between;
+        padding-top: 10em;
     }
     .containerText{
         width: 45%;
